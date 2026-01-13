@@ -51,7 +51,7 @@ O modelo demonstrou alta eficácia nos testes unitários:
 ---
 
 ## 👨‍💻 Autor
-**Fred** Desenvolvedor focado em Machine Learning e Visão Computacional.
+**Fred Cavalheiro** Desenvolvedor focado em Machine Learning e Visão Computacional.
 
 ---
 *Este projeto tem fins educacionais e demonstra habilidades em Deep Learning, Visão Computacional e integração de frameworks modernos de IA.*
